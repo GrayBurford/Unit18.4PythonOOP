@@ -1,0 +1,11 @@
+# fruits
+
+pear
+
+# veggies
+
+carrot
+kale
+cabbage
+lettuce
+tomato
